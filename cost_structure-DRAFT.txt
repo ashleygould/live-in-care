@@ -1,0 +1,44 @@
+
+DRAFT DRAFT DRAFT
+
+Live-in Homecare Proposal
+=========================
+
+
+- We will pay an hourly rate of $15.00
+- We will provide meals and housing
+
+- Minimum hours would by 9 hours per day for 5 days a week. ($675.00)
+- Hours beyond 45 per week are overtime with hourly pay rate of $22.50
+
+
+
+
+
+
+
+Mendiola facter
+---------------
+
+
+If we have to cover 24 hours for 5 days a week per Mendiola Decision, 
+this would mean:
+
+40 hours per week at $15.00/hour:	 $600.00
+80 hours per week at $22.50/hour:	$1800.00
+					--------
+					$2400.00 per week
+
+Meals and Lodging		       - $185.00
+
+					--------
+weekly:					$2215.00
+
+monthly:	2215*4.3 		$9524.50
+
+yearly:		2215*4.3*12 	      $114294.00
+
+
+
+
+
