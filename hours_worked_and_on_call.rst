@@ -126,14 +126,14 @@ https://www.courts.ca.gov/opinions/archive/S212704.PDF
 This decision was partly based on the degree of control the
 employer has on the employee during on-call duty hours:
 
-  (1)whether there was an on-premises living requirement;  
+  (1) whether there was an on-premises living requirement;  
   
   (2) whether there were excessive geographical restrictions on
   employee‟s movements;  
   
   (3) whether the frequency of calls was unduly restrictive;  
   
-  (4)whether a fixed time limit for response was unduly
+  (4) whether a fixed time limit for response was unduly
   restrictive;  
   
   (5) whether the on-call employee could easily trade on-call
@@ -141,7 +141,7 @@ employer has on the employee during on-call duty hours:
   
   (6) whether use of a pager could ease restrictions; and  
   
-  (7)whether theemployee had actually engaged in personal
+  (7) whether theemployee had actually engaged in personal
   activities during call-in time.  
 
   Courts have also taken into account whether the on-call
@@ -217,8 +217,8 @@ from https://www.griegolaw.com/contact-us/blog/2015/01/california-supreme-court-
 
 
 
-In 2016 SB 1344 was put forwared.  This bill attempts to create
-a homecare worker exemption similar to that in IWC WorkOrders 5
+In 2016 California SB 1344 was put forward.  This bill attempts to
+create a homecare worker exemption similar to that in IWC WorkOrders 5
 and 9, but it did not get out of committee.
 
 - https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201520160SB1344
@@ -247,16 +247,16 @@ My Interpretation
 Adhearing to the requirements set out in the Mendiola Decision
 would cost over $145,000.00 per year, even at minumum wage:
 
-+--------------------------------+
-| 9 hrs @ $14.14 | $127.26       |
++----------------+---------------+
+|9 hrs @ $14.14  | $127.26       |
 |15 hrs @ $28.28 | $424.20       |
-+--------------------------------+
++----------------+---------------+
 |daily wage      | $551.46       |
-+--------------------------------+
++----------------+---------------+
 |monthly wage	 | $12,132.12    |
-+--------------------------------+
++----------------+---------------+
 |annual wage	 | $145,585.44   |
-+--------------------------------+
++----------------+---------------+
 
 But ignoring Mendiola could leave us open to litigation.  If a
 worker were able to prove they were required to be available for
